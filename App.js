@@ -540,7 +540,7 @@ const App = () => {
             />
             <button type="submit">Entrar con Email</button>
           </form>
-          <button onClick={handleGoogleLogin} style={{marginTop: '10px', background: '#4285F4'}}>
+          <button onClick={handleGoogleLogin} style={{ marginTop: '10px', background: '#4285F4' }}>
             Iniciar sesión con Google
           </button>
           <p style={{marginTop: '15px'}}>
